@@ -5,10 +5,10 @@ Developed insights of World bank Loan using Tableau to translate buisness strate
 
 World Bank provides loans and credits to the developed and developing countries for their overall growth in the sectors for which the government of these countries need funds for. The World Bank Loan data domain is divided into 2 sectors - IBRD and IDA. 
 
-**IBRD:**
+**IBRD:**<br/>
 The International Bank for Reconstruction and Development lends to governments of middle- income and creditworthy low- income countries. 
 
-**IDA:**
+**IDA:**<br/>
 The International Development Association provides interest free loans called credits and grants to the government of poor countries 
 
 ## Problem Statement:
@@ -25,10 +25,10 @@ As massive amount of finances are involved contributing to the Gross income of c
 8) Visualize the per sector status for the two countries
 9) Recommendation for the World Bank giving sector specific details for the two countries. 
 
-**Tableau Visualizations:**
-Developed and Developing Countries represented on a world map. 
-IBRD - Developing Countries 
-IDA - Developed Countries 
+**Tableau Visualizations:**<br/>
+Developed and Developing Countries represented on a world map.<br/>
+IBRD - Developing Countries<br/>
+IDA - Developed Countries<br/>
 
 ![image_descript](/images/1.png)
 
@@ -49,26 +49,26 @@ IDA - Developed Countries
 
 ![image_descript](/images/4.png)
 
-**Key factors :
-Key Learning : Website Integration**
+## Key factors:
+**Key Learning : Website Integration**<br/>
 
 ![image_descript](/images/5.png)
-
+<br/>
 **Per Sector Status for India and Japan:**
 
 ![image_descript](/images/6.png)
-
+<br/>
 ## Recommendation:
-Of all the developed and the Developing Countries borrowed from the World Bank Data , India and Japan have the highest performance rating based on their repayment patterns. In the future , these are the sectors in which the World Bank can invest:
+Of all the developed and the Developing Countries borrowed from the World Bank Data , India and Japan have the highest performance rating based on their repayment patterns.<br/>In the future , these are the sectors in which the World Bank can invest:
 
-**India:**
+**India:**<br/>
 Road Construction<br/>
 Power and Energy Resources<br/>
 Education and Research 
 
-**Japan:**
-Power and Energy Resources 
-Road Construction 
+**Japan:**<br/>
+Power and Energy Resources<br/>
+Road Construction<br/>
 Agriculture and Fisheries 
 
 
